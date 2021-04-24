@@ -1,0 +1,30 @@
+[
+    {
+        "id": "sksksksksksksksksk",
+        "name": "XIAOMI TV",
+        "stock": "200",
+        "price" : "500",
+        "description" : "pake kacamata supaya makin tampan"
+    },
+    {
+        "id": "qpqpqpqpqpqpqpqp",
+        "name": "KACAMATA TAMPAN HITAM",
+        "stock": "200",
+        "price" : "500",
+        "description" : "pake kacamata supaya makin tampan"
+    },
+    {
+        "id": "alalalalalalalal",
+        "name": "BONEKA BARBIE",
+        "stock": "200",
+        "price" : "500",
+        "description" : "pake kacamata supaya makin tampan"
+    },
+    {
+        "id": "zmzmzmzmzmzmzmzmzm",
+        "name": "ULTRAMILK SUSU SEHAT",
+        "stock": "200",
+        "price" : "500",
+        "description" : "pake kacamata supaya makin tampan"
+    }
+]
